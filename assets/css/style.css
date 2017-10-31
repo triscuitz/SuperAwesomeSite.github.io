@@ -1,0 +1,45 @@
+body {
+  background: blue;
+}
+.body {
+  width: 960px;
+}
+
+.topBar {
+  background: black;
+  margin: 20px;
+}
+
+header {
+  margin-left: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+  background: teal;
+  float: left;
+}
+
+nav {
+  margin-right: 50px;
+  float: right;
+  font-size: 14pt;
+  font-family: sans-serif;
+  color: grey;
+}
+
+.main {
+  clear: both;
+  width: 650px;
+  padding: 20px;
+  background: white;
+}
+
+img {
+  float: left;
+  padding-right: 15px;
+}
+
+p {
+  font-family: sans-serif;
+  color: grey;
+}
